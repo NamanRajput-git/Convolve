@@ -1,0 +1,36 @@
+# Core Framework
+streamlit==1.31.0
+streamlit-webrtc==0.47.1
+audio-recorder-streamlit==0.0.8
+
+# Vector Database
+qdrant-client==1.7.3
+
+# Embeddings & ML
+sentence-transformers==2.3.1
+torch==2.1.2
+transformers==4.37.2
+
+# LLM Integration
+langchain==0.1.6
+langchain-google-genai==0.0.6
+google-generativeai==0.3.2
+
+# Voice Processing
+SpeechRecognition==3.10.1
+pyttsx3==2.90
+gTTS==2.5.0
+pyaudio==0.2.14
+
+# Utilities
+python-dotenv==1.0.1
+pandas==2.2.0
+numpy==1.26.3
+python-dateutil==2.8.2
+
+# Privacy & Security
+cryptography==42.0.0
+hashlib-additional==1.0.0
+
+# Logging & Monitoring
+loguru==0.7.2
